@@ -1,0 +1,15 @@
+{
+  "name": "midtveiseksamen",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Møre og Romsdal kommune analysis script",
+  "main": "scripts/student585440-run-script.js",
+  "scripts": {
+    "start": "node scripts/student585440-run-script.js"
+  },
+  "dependencies": {
+    "@tgwf/co2": "^0.15.0",
+    "node-fetch": "^3.3.2",
+    "xlsx": "^0.18.5"
+  }
+}
